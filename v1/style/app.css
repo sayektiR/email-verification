@@ -1,0 +1,121 @@
+body {
+    background-color: #0047B3;
+}
+
+header {
+    margin-left: 84px;
+    display: flex;
+}
+
+.title {
+    position: absolute;
+    padding: 0%;
+    margin-top: 100px;
+}
+
+h1 {
+    font-family: Poppins;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 40px;
+    font-style: normal;
+}
+
+.sub-title {
+    position: relative;
+    margin-top: 180px;
+}
+
+.sub-title-p {
+    font-family: Poppins;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.verification {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.code-otp {
+    background-color: #FFFFFF;
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 15px;
+}
+
+h2 {
+    font-family: Poppins;
+    color: #000000;
+    font-weight: 400;
+    font-size: 30px;
+    font-style: normal;
+    text-align: center;
+    opacity: 80%;
+}
+
+.code-otp-p {
+    font-family: Poppins;
+    color: #000000;
+    font-weight: 600;
+    font-size: 40px;
+    font-style: normal;
+    text-align: center;
+    letter-spacing: 10px;
+    opacity: 80%;
+}
+
+.alternative {
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.alternative-otp {
+    background-color: #FFFFFF;
+    padding-left: 255px;
+    padding-right: 255px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 15px;
+}
+
+.code-alternative {
+    font-family: Poppins;
+    color: #000000;
+    font-weight: 400;
+    font-size: 15px;
+    font-style: normal;
+    text-align: center;
+    opacity: 80%;
+}
+
+.link-code {
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 15px;
+    font-style: normal;
+    text-align: center;
+    opacity: 80%;
+    text-decoration: none;
+    margin: auto;
+}
+
+.alert {
+    font-family: Poppins;
+    color: #000000;
+    font-weight: 400;
+    font-size: 15px;
+    font-style: normal;
+    text-align: center;
+    opacity: 80%;
+}
+
